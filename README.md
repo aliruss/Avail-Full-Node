@@ -2,12 +2,17 @@
   
 ![image](https://pbs.twimg.com/media/GEs4hlUXAAEf03M?format=jpg&name=large)
 
-## سیستم مورد نیاز
-### Ubunutu 22.04
-NODE TİPİ | CPU     | RAM      | SSD     |
+## حداقل سیستم مورد نیاز
+### Ubunutu 20.04 or 22.04
+Node name | CPU     | RAM      | SSD     |
 | ------------- | ------------- | ------------- | -------- |
 | Avail  | 4         | 8         | 160  |
   
+## سیستم پیشنهادی
+### Ubunutu 20.04 or 22.04
+Node name | CPU     | RAM      | SSD     |
+| ------------- | ------------- | ------------- | -------- |
+| Avail  | 8         | 16         | 300  |
 
 # اماده سازی سرور 
 
