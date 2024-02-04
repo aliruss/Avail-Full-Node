@@ -192,7 +192,7 @@ cd madara-cli
 ![Ekran görüntüsü 2024-01-27 220406](https://github.com/CoinHuntersTR/Avail-Full-Node/assets/111747226/67f0ebd0-44eb-4309-bae2-39fd9286dc37)
 
 
-## PR Açıyoruz.
+## لینک ها.
 
 [لینک ریپازتوری اصلی پروژه](https://github.com/karnotxyz/avail-campaign-listing).
 
