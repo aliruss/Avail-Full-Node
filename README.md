@@ -197,6 +197,21 @@ cd madara-cli
 [لینک ریپازتوری اصلی پروژه](https://github.com/karnotxyz/avail-campaign-listing).
 
 
+[برای مشاهده لیدر برد کلیک کنید](https://leaderboard.availproject.org/).
+
+[داکیومنتیشن برای نصب نود ورژن 14 به بالا ](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04).
+
+
+### برای فیکس کردن مشکل pull request ( توضیحات در ویدیو یوتیوب )
+
+```
+npx prettier --check yourfileontheserver.json
+
+npx prettier --write yourfileontheserver.json
+
+
+```
+
 ادامه کار را در ویدیو یوتیوب ببینید 
 
 کلمه پیش فرض 
